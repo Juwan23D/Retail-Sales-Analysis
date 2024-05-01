@@ -64,7 +64,7 @@ We will be using a supermarket sales dataset from kaggle.
 
      _Measured different trends such as the most popular product purchased by gender, and payment preferences._
 
-   SQL Code
+   **[SQL Code](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/SQLQuerysupermar.sql)**
 
    # Analyze
 
