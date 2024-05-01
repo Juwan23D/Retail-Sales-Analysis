@@ -16,3 +16,13 @@ Analyze
 Share
 
 Act
+
+# Ask
+
+**Objective:** An established Supermarket is looking to gain a better understanding of its customers to identify improvements and opportunity for growth. Doing this will lead to store adjustments that will increase customer satisfaction and profits.
+
+* Which branch has the best results in the loyalty program?
+* Does the membership depend on customer rating?
+* Does gross income depend on the proportion of customers in the loyalty program? On payment method?
+* Are there any differences in indicators between men and women?
+* Which product category generates the highest income?
