@@ -27,4 +27,4 @@ Act
 * Are there any differences in indicators between men and women?
 * Which product category generates the highest income?
 
-  _These questions will the firsthand thoughts of the customer. Understanding their viewpoint about the stores will provide insight on how to enhance their experience._ 
+  _These questions will give the firsthand thoughts of the customer. Understanding their viewpoint about the stores will provide insight on how to enhance their experience._ 
