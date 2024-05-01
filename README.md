@@ -154,6 +154,14 @@ Group BY Product_line
 ![Most](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/Screenshot_1-5-2024_1429_docs.google.com.jpeg)
 
 # Share
+**[Supermarket Dashboard](https://public.tableau.com/shared/GQR73Q577?:display_count=n&:origin=viz_share_link)**
+
+![Most](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/Screenshot_1-5-2024_15253_public.tableau.com.jpeg)
+
+**[Supermarket Presentation](https://docs.google.com/presentation/d/1u3fTM8nA7pOJb4Ie6r_2YDPo_rsGZH4lvplWfWUdr7Q/present?slide=id.p1)**
+
+![Most](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/Screenshot_1-5-2024_12353_docs.google.com.jpeg)
+
 
 # Act
 
