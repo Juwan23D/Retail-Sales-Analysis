@@ -70,6 +70,31 @@ We will be using a supermarket sales dataset from kaggle.
 
    Delving into customer behavior and loyalty program efficacy offers valuable insights into purchasing habits and preferences, guiding our marketing strategies. Although distinctions between loyalty program members and regular customers may be subtle, pinpointing trends informs strategic adjustments to enhance customer satisfaction and competitive positioning. Effectively leveraging this data enables us to tailor offerings and loyalty programs, fostering stronger customer loyalty and setting us apart from competitors.
 
+   **Payment Preference**
+    
+  This is the divide between male and female based on payment options. These three methods of payment can help the supermarket understand how their customers prefer to pay for the items they purchase and how they can make sure these options are  supported for            various situations. Making sure things are simple and convenient will always be a safe move, such as a nearby atm machine, or a personal app to help out E wallets.
+
+  ```
+  SELECT COUNTIF(Gender='Female') as female FROM `supermarket-375222.Supermarket.sales_table` 
+  Where Payment = "Cash" 
+
+  SELECT COUNTIF(Gender='Female') as female_pay FROM `supermarket-375222.Supermarket.sales_table` 
+  Where Payment = "Ewallet"
+
+  SELECT COUNTIF(Gender='Female') as female_pay FROM `supermarket-375222.Supermarket.sales_table` 
+  Where Payment = "Credit card"
+ ```
+```
+  SELECT COUNTIF(Gender='Male') as male FROM `supermarket-375222.Supermarket.sales_table` 
+  Where Payment = "Cash"
+
+  SELECT COUNTIF(Gender='Male') as male FROM `supermarket-375222.Supermarket.sales_table` 
+  Where Payment = "Ewallet"
+
+  SELECT COUNTIF(Gender='Male') as male FROM `supermarket-375222.Supermarket.sales_table` 
+  Where Payment = "Credit card"
+```
+
    
 
    
