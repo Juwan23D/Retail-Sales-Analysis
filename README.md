@@ -94,6 +94,27 @@ We will be using a supermarket sales dataset from kaggle.
   SELECT COUNTIF(Gender='Male') as male FROM `supermarket-375222.Supermarket.sales_table` 
   Where Payment = "Credit card"
 ```
+**Supermarket Loyalty Program**
+
+ This is meant to provide an emphasis on branch results of the loyalty program. Here once C has the greatest average gross income of 16.027, and it also has the highest rating with 7.04. The supermarket can investigate the qualities about branch C that has given it 
+ the slight edge on branch A and B.
+
+```
+SELECT Branch, AVG(gross_income) as gross_income
+FROM `supermarket-375222.Supermarket.sales_table` 
+Where (Customer_type='Member')
+Group BY Branch 
+```
+```
+SELECT Branch, AVG(Rating) as avg_rating FROM `supermarket-375222.Supermarket.sales_table` 
+Group BY Branch
+ ```
+**Member vs normal/gender gdp**
+
+Now we see the comparison of gender between loyalty members and normal customers. The members have a higher gross income between genders with females at 16.082 and males at 15.095 while the normal females have 15.821 and males at 14.526. However, the normal rating for females (6.99) and males (7.019) was slightly higher than the members rating of females (6.941) and males (6.94). Then what about the supermarket makes the normal customers rate it higher than the loyalty members, to me it seems there may need to be some improvement in the loyalty program.
+
+_I know the difference is minimal and reward members can be more critical, but any business would want all of its customers in the loyalty program. Word of mouth is the greatest marketing promotion espically coming from someone you trust. If loyalty members like the store less than normal members, what rewards customers would reccomend it to their normal member friends?_
+
 
    
 
