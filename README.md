@@ -165,6 +165,17 @@ Some differences between the genders was that there were more females (261) in t
 
 Home and lifestyle generates the highest income with a gross income total average of 336.636.
 
+### Reccomendations ###
+
+Some recommendations I'd make would be to do a survey, and see what customers would like to see in a loyalty program. What incentives do they value the most, and how can this be used to turn normal customers into members.
+
+Seeing that women spend more than men, what needs and wants do women fulfill by purchasing from the supermarket? Which home and lifestyle items do they buy the most of?
+
+Advertising sales more in the home and lifestyle for women and health and beauty sections for men.  
+
+Also gathering information on what men would like more out of the store, such as any items that are available at other stores that aren't at the supermarket that they’d want to see more of.
+
+
 This study was meant to give understanding to the parts the supermarket is using. The branches, loyalty program, and rating can tell the story of what the supermarket can do in the future to increase revenue. Seeing the patterns of what males and females purchased along with how they viewed the store with the rating system, helped the supermarket gaze into the mind of the customer to see what they wanted.  
 
    
