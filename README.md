@@ -33,7 +33,7 @@ _6 step data analysis process_
 
  # Prepare
 
-  Source: Supermarket Dataset
+  Source: [Supermarket Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data)
 
 We will be using a supermarket sales dataset from kaggle.
  * 1 csv file
