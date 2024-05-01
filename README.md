@@ -38,3 +38,16 @@ We will be using a supermarket sales dataset from kaggle.
  * Historical dataset that covers 3 months between 3 different branches at various locations.
  * Measures what males and females purchased at these locations.
  * Made for predictive analytic purposes, and developing techniques for data mining, predictive modeling, and forecasting unknown events.
+
+ # Process
+
+ **Excel**
+
+ * Chose to work with specific columns, Branch, Customer_type, Gender, Product line, Payment, Gross Income
+
+   _These columns were able to give me insight on the customer loyalty program and how much it's benefitting the supermarket from a sales perspective_
+
+  * Checked for spelling errors, duplicates, format issues
+  * Created a pivot tables to gain a quick note of some patterns I noticed, like a sum of the grand total, and how quantity correlated to the other fields.
+   
+   
