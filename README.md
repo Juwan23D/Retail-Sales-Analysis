@@ -7,15 +7,17 @@ Thousands of people visit supermarkets every day to buy food and housing supplie
 
 _6 step data analysis process_
 
-Ask
+[Ask](https://github.com/Juwan23D/Retail-Sales-Analysis#ask)
 
-Prepare
+[Prepare](https://github.com/Juwan23D/Retail-Sales-Analysis#prepare)
 
-Analyze
+[Process](https://github.com/Juwan23D/Retail-Sales-Analysis#process)
 
-Share
+[Analyze](https://github.com/Juwan23D/Retail-Sales-Analysis#analyze)
 
-Act
+[Share]()
+
+[Act](https://github.com/Juwan23D/Retail-Sales-Analysis#act)
 
 # Ask
 
