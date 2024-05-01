@@ -50,7 +50,7 @@ We will be using a supermarket sales dataset from kaggle.
    _These columns were able to give me insight on the customer loyalty program and how much it's benefitting the supermarket from a sales perspective_
 
   * Checked for spelling errors, duplicates, format issues
-  * Created a pivot tables to gain a quick note of some patterns. 
+  * Created pivot tables to gain a quick note of some patterns. 
 
     _I chose to make pivot tables for a quick summary and comparisons of the data such as gender corelating to the other columns. This gave me a better picture about what could be uncovered before sending it to SQL._ 
 
