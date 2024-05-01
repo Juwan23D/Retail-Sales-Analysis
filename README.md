@@ -143,6 +143,29 @@ FROM `supermarket-375222.Supermarket.sales_table`
 WHERE Gender='Male'
 Group BY Product_line
 ```
+# Act
+
+* Which branch has the best results in the loyalty program?
+
+One of the main things I noticed was that the best branch in the loyalty program was branch C. The C branch had the highest gross income of 16.05 and rating of 7.04 from the customers. Even among the normal customers, Branch C had the highest results  with an average gross income og 16.07 and a rating of 7.09. 
+
+* Does the membership depend on customer rating?
+
+However, in this comparison I concluded that membership didn’t necessarily depend on its rating because the normal guests (7.00) had a higher rating than the members (6.94). 
+
+* Does gross income depend on the proportion of customers in the loyalty program? On payment method?
+
+Since the difference wasn’t significant, one could say that the gross isn’t based heavily on the loyalty program because the normal customers are outpacing the members. When it came to the payment methods, females mostly paid with cash at 178, and normal males preferred ewallet with 184. However, neither one of these options had a major impact over the other options, so I can only suggest moving forward with all three options.
+
+* Are there any differences in indicators between men and women?
+
+Some differences between the genders was that there were more females (261) in the loyalty program than the males(240). However, there are more normal males (259) than females (240), and between the branches the members had a higher gross income so the supermarket may need to see how they can get more normal customers to become members.The highest product line for men are health and beauty (16.576) while for females its home and lifestyle (18.105). Females also have a higher gross income average than males in both members (F 16.082) (M 15.094) and normal (F 15.820) (M 14.526). 
+
+* Which product category generates the highest income?
+
+Home and lifestyle generates the highest income with a gross income total average of 336.636.
+
+This study was meant to give understanding to the parts the supermarket is using. The branches, loyalty program, and rating can tell the story of what the supermarket can do in the future to increase revenue. Seeing the patterns of what males and females purchased along with how they viewed the store with the rating system, helped the supermarket gaze into the mind of the customer to see what they wanted.  
 
    
 
