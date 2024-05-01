@@ -119,7 +119,7 @@ Group BY Branch
 
 Now we see the comparison of gender between loyalty members and normal customers. The members have a higher gross income between genders with females at 16.082 and males at 15.095 while the normal females have 15.821 and males at 14.526. However, the normal rating for females (6.99) and males (7.019) was slightly higher than the members rating of females (6.941) and males (6.94). Then what about the supermarket makes the normal customers rate it higher than the loyalty members, to me it seems there may need to be some improvement in the loyalty program.
 
-_I know the difference is minimal and reward members can be more critical, but any business would want all of its customers in the loyalty program. Word of mouth is the greatest marketing promotion espically coming from someone you trust. If loyalty members like the store less than normal members, what rewards customers would reccomend it to their normal member friends?_
+_I know the difference is minimal and reward members can be more critical, but any business would want all of its customers in the loyalty program. Word of mouth is the greatest marketing promotion especially coming from someone you trust. If loyalty members like the store less than normal members, what rewards customers would reccomend it to their normal member friends?_
 
 ```
 SELECT COUNTIF(Gender='Male') as m_p, AVG(gross_income) as Gross_income, Customer_type,
