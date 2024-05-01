@@ -65,6 +65,14 @@ We will be using a supermarket sales dataset from kaggle.
    SQL Code
 
    # Analyze
+
+   ## Summary:
+
+   Delving into customer behavior and loyalty program efficacy offers valuable insights into purchasing habits and preferences, guiding our marketing strategies. Although distinctions between loyalty program members and regular customers may be subtle, pinpointing trends informs strategic adjustments to enhance customer satisfaction and competitive positioning. Effectively leveraging this data enables us to tailor offerings and loyalty programs, fostering stronger customer loyalty and setting us apart from competitors.
+
+   
+
+   
     
    
    
