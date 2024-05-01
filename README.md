@@ -127,7 +127,22 @@ FROM `supermarket-375222.Supermarket.sales_table`
 WHERE Gender='Female'
 Group BY Customer_type
 ```
+**Highest avg gross product lines by gender**
 
+Product lines that had the highest average gross income can tell the supermarket what the customers like the most. Divided between the genders helps the supermarket narrow down preferences and what people buy the most between selections. We saw earlier that females spend more than the men, and now we see what both their favorite product lines are. The supermarket can now make adjustments in supply and invest more into their top sellers.
+
+```
+SELECT Product_line as pr_p, AVG(gross_income) as Gross_income, 
+FROM `supermarket-375222.Supermarket.sales_table` 
+WHERE Gender='Female'
+Group BY Product_line
+```
+```
+SELECT Product_line as pr_p, AVG(gross_income) as Gross_income, 
+FROM `supermarket-375222.Supermarket.sales_table` 
+WHERE Gender='Male'
+Group BY Product_line
+```
 
    
 
