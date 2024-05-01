@@ -96,6 +96,8 @@ We will be using a supermarket sales dataset from kaggle.
   SELECT COUNTIF(Gender='Male') as male FROM `supermarket-375222.Supermarket.sales_table` 
   Where Payment = "Credit card"
 ```
+![Most](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/Screenshot_1-5-2024_14016_docs.google.com.jpeg)
+
 **Supermarket Loyalty Program**
 
  This is meant to provide an emphasis on branch results of the loyalty program. Here once C has the greatest average gross income of 16.027, and it also has the highest rating with 7.04. The supermarket can investigate the qualities about branch C that has given it 
@@ -111,6 +113,8 @@ Group BY Branch
 SELECT Branch, AVG(Rating) as avg_rating FROM `supermarket-375222.Supermarket.sales_table` 
 Group BY Branch
  ```
+![Most](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/Screenshot_1-5-2024_14058_docs.google.com.jpeg)
+
 **Member vs normal/gender gdp**
 
 Now we see the comparison of gender between loyalty members and normal customers. The members have a higher gross income between genders with females at 16.082 and males at 15.095 while the normal females have 15.821 and males at 14.526. However, the normal rating for females (6.99) and males (7.019) was slightly higher than the members rating of females (6.941) and males (6.94). Then what about the supermarket makes the normal customers rate it higher than the loyalty members, to me it seems there may need to be some improvement in the loyalty program.
@@ -129,6 +133,8 @@ FROM `supermarket-375222.Supermarket.sales_table`
 WHERE Gender='Female'
 Group BY Customer_type
 ```
+![Most](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/Screenshot_1-5-2024_14157_docs.google.com.jpeg)
+
 **Highest avg gross product lines by gender**
 
 Product lines that had the highest average gross income can tell the supermarket what the customers like the most. Divided between the genders helps the supermarket narrow down preferences and what people buy the most between selections. We saw earlier that females spend more than the men, and now we see what both their favorite product lines are. The supermarket can now make adjustments in supply and invest more into their top sellers.
@@ -145,6 +151,8 @@ FROM `supermarket-375222.Supermarket.sales_table`
 WHERE Gender='Male'
 Group BY Product_line
 ```
+![Most](https://github.com/Juwan23D/Retail-Sales-Analysis/blob/main/Screenshot_1-5-2024_1429_docs.google.com.jpeg)
+
 # Share
 
 # Act
