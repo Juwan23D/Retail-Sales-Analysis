@@ -145,6 +145,8 @@ FROM `supermarket-375222.Supermarket.sales_table`
 WHERE Gender='Male'
 Group BY Product_line
 ```
+# Share
+
 # Act
 
 * Which branch has the best results in the loyalty program?
