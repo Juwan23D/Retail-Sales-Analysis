@@ -26,3 +26,5 @@ Act
 * Does gross income depend on the proportion of customers in the loyalty program? On payment method?
 * Are there any differences in indicators between men and women?
 * Which product category generates the highest income?
+
+  _These questions will the firsthand thoughts of the customer. Knowing what their viewpoint about the stores will provide insight on how to enhance their experience._ 
