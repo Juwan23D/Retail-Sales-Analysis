@@ -115,6 +115,19 @@ Now we see the comparison of gender between loyalty members and normal customers
 
 _I know the difference is minimal and reward members can be more critical, but any business would want all of its customers in the loyalty program. Word of mouth is the greatest marketing promotion espically coming from someone you trust. If loyalty members like the store less than normal members, what rewards customers would reccomend it to their normal member friends?_
 
+```
+SELECT COUNTIF(Gender='Male') as m_p, AVG(gross_income) as Gross_income, Customer_type,
+FROM `supermarket-375222.Supermarket.sales_table`
+Where Gender='Male'
+Group BY Customer_type
+```
+```
+SELECT COUNTIF(Gender='Female') as f_p, AVG(gross_income) as Gross_income, Customer_type,
+FROM `supermarket-375222.Supermarket.sales_table` 
+WHERE Gender='Female'
+Group BY Customer_type
+```
+
 
    
 
