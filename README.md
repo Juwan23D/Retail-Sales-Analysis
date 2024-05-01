@@ -27,4 +27,14 @@ Act
 * Are there any differences in indicators between men and women?
 * Which product category generates the highest income?
 
-  _These questions will give the firsthand thoughts of the customer. Understanding their viewpoint about the stores will provide insight on how to enhance their experience._ 
+  _These questions will give the firsthand thoughts of the customer. Understanding their viewpoint about the stores will provide insight on how to enhance their experience._
+
+ # Prepare
+
+  Source: Supermarket Dataset
+
+We will be using a supermarket sales dataset from kaggle.
+ * 1 csv file
+ * Historical dataset that covers 3 months between 3 different branches at various locations.
+ * Measures what males and females purchased at these locations.
+ * Made for predictive analytic purposes, and developing techniques for data mining, predictive modeling, and forecasting unknown events.
